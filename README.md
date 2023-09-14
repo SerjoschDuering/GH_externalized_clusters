@@ -1,2 +1,2 @@
-# GH_externilized_clusters
+# GH_externalized_clusters
  examplary grasshopper workflow using externalized & referenced clusters 
